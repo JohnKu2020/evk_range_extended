@@ -15,8 +15,13 @@ $(document).ready(function(){
 	$("#bar_width").on('evk_change',function(e, val){ log('Value: '+val); });
   
 });
+
+// To set value
+function set_re_val(id, val) { $('#'+id).attr('data-val',val); $('#evkre_'+id).val(val); $('#evkre_'+id+'_val').val(val); }
+
+set_re_val('bar_width', 60);
 </script>
-<div class="row"><div class="col-lg-3"><div id="cale"></div></div></div>
+<div class="row"><div class="col-lg-3"><div id="bar_width"></div></div></div>
 ```
 ## Options
 ```
