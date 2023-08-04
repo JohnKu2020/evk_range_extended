@@ -1,6 +1,6 @@
 # evk_range_extended
 It combines html both range input and number input controls to work as one with Wheel events
-
+https://github.com/JohnKu2020/evk_range_extended/blob/main/README.md
 ## Setup
 ```
 <script type="text/javascript" src="evk_range_extended.js"></script>
@@ -31,7 +31,7 @@ set_re_val('bar_width', 60);
 ![How it looks](https://evk.ru.com/demo/github/evk_range_extended/evk_range_extended.PNG)
 
 ## Demo
-You can see a [demo and usage here](http://localhost/evk2020/demo/github/evk_range_extended)
+You can see a ![demo and usage here]([http://localhost/evk2020/demo/github/evk_range_extended/])
 
 ## License
 
