@@ -31,7 +31,7 @@ set_re_val('bar_width', 60);
 ![How it looks](https://evk.ru.com/demo/github/evk_range_extended/evk_range_extended.PNG)
 
 ## Demo
-You can see a ![demo and usage here]([http://localhost/evk2020/demo/github/evk_range_extended/])
+You can see a [demo and usage here](https://evk.ru.com/demo/github/evk_range_extended)
 
 ## License
 
