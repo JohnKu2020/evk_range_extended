@@ -28,16 +28,16 @@ set_re_val('bar_width', 60);
 ({text: '', min: 0, max: 10, step: 1, init_val: 0, format: 'int | float'})
 ```
 ## How it looks like
-![How it looks](https://evk.ru.com/demo/github/evk_range_extended/evk_range_extended.PNG)
+![How it looks](https://evk.com.ua/demo/github/evk_range_extended/evk_range_extended.PNG)
 
 ## Demo
-You can see a [demo and usage here](https://evk.ru.com/demo/github/evk_range_extended)
+You can see a [demo and usage here](https://evk.com.ua/demo/github/evk_range_extended)
 
 ## License
 
 (The MIT License)
 
-Copyright (c) 2023 John Ku
+Copyright (c) 2023 Yevhen K
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
